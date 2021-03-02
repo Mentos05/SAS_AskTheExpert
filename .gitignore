@@ -1,0 +1,5 @@
+dlpy/git_ignore
+esppy/git_ignore
+swat/git_ignore
+**/*.ipynb_checkpoints/
+**/*__pycache__/
