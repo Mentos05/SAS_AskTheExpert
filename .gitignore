@@ -3,3 +3,4 @@ esppy/git_ignore
 swat/git_ignore
 **/*.ipynb_checkpoints/
 **/*__pycache__/
+cmd.txt
