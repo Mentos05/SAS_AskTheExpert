@@ -9,10 +9,10 @@ The examples in this repository are divided into 4 different areas:
 
 Which way you go usually depends on your usecase and role.
 
-Like the visual interface of SAS Model Studio but want to include Python-code? -> Open Source Node
-Familiar with Python but want to use the power of SAS Viya to analyze structured data? -> SAS SWAT
-Familiar with Python but want to use deep learning features of SAS Viya? -> SAS DLPy
-Familiar with Python but want to create streaming pipelines with SAS ESP? -> SAS ESPPy
+Like the visual interface of SAS Model Studio but want to include Python-code? -> Open Source Node<br>
+Familiar with Python but want to use the power of SAS Viya to analyze structured data? -> SAS SWAT<br>
+Familiar with Python but want to use deep learning features of SAS Viya? -> SAS DLPy<br>
+Familiar with Python but want to create streaming pipelines with SAS ESP? -> SAS ESPPy<br>
 
 ### Official SAS Repositories
 Please Note: This is my private repository and not an official SAS repository.<br>
