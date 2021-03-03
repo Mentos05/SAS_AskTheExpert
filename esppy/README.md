@@ -5,7 +5,7 @@ SAS Event Stream Processing is perfect if you want to analyze streaming data, un
 In this example I demonstrate how to use a trained object detection model to anaylze video footage from an airport in real-time.<br>
 
 ### Official Repository
-The official SAS DLPy repository with more examples can be found here:
+The official SAS ESPPy repository with more examples can be found here:
 * [SAS Event Stream Processing Python Interface](https://github.com/sassoftware/python-esppy)
 
 ### Demo
