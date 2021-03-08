@@ -9,3 +9,7 @@ Our goal is to predict flight delays given historical flight data.<br>
 ### Official Repository
 The official SAS repository with more examples can be found here:
 * [SAS Viya Model Studio Pipelines](https://github.com/sassoftware/sas-viya-dmml-pipelines)
+
+### Further Ressources
+For a detailed explanation of the Open Source Code Node I recommend to checkout the official documentation:
+* [SAS Open Source Code Node](https://go.documentation.sas.com/?cdcId=vdmmlcdc&cdcVersion=v_002&docsetId=vdmmlref&docsetTarget=n0t0jq9em0n5k3n1b6qxldxpqa86.htm&locale=en)
